@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Calm Is Awesome
+                    Calm Is Awesome and again Awesome
                 </a>
             </div>
 
