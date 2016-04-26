@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Calm Is Awesome and again Awesome!
+                    Calm Is Awesome and again Awesome! by Devops Team!!
                 </a>
             </div>
 
