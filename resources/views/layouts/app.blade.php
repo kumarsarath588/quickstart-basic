@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Keep CALM this too shall pass...!!!!
+                    Keep CALM this too shall pass...!!!!!
                 </a>
             </div>
 
